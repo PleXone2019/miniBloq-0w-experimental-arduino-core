@@ -29,6 +29,6 @@
 
 
 - Developers:
-	- Julián da Silva Gillig at RobotGroup's RG.Labs (http://robotgroup.com.ar).
+	- Julián da Silva Gillig at RobotGroup RG.Labs (http://robotgroup.com.ar).
 	- This is part of the Multiplo (http://multiplo.org) and the DuinOS projects.
 
