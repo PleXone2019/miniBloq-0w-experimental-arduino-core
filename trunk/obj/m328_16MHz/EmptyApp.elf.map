@@ -1,0 +1,1649 @@
+Archive member included because of file (symbol)
+
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+                              obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o (__mulsi3)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+                              obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o (__divmodhi4)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+                              obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o (__udivmodsi4)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+                              obj\m328_16MHz\cores\arduino-0019\WMath.o (__divmodsi4)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+                              c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o (exit)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+                              obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o (__do_copy_data)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+                              obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o (__do_clear_bss)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+                              obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o (__do_global_ctors)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o)
+                              obj\m328_16MHz\cores\arduino-0019\Print.o (__fixunssfsi)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+                              obj\m328_16MHz\cores\arduino-0019\Print.o (__subsf3)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+                              obj\m328_16MHz\cores\arduino-0019\Print.o (__mulsf3)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+                              obj\m328_16MHz\cores\arduino-0019\Print.o (__divsf3)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+                              c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+                              obj\m328_16MHz\cores\arduino-0019\Print.o (__ltsf2)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+                              obj\m328_16MHz\cores\arduino-0019\Print.o (__floatsisf)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_sf_to_si.o)
+                              obj\m328_16MHz\cores\arduino-0019\Print.o (__fixsfsi)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_thenan_sf.o)
+                              c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+                              obj\m328_16MHz\cores\arduino-0019\Print.o (__floatunsisf)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+                              c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+                              c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+                              c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o) (__tablejump__)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clzsi2.o)
+                              c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o) (__clzsi2)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_pack_sf.o)
+                              c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unpack_sf.o)
+                              c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o) (__fpcmp_parts_f)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clz.o)
+                              c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clzsi2.o) (__clz_tab)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                              obj\m328_16MHz\cores\arduino-0019\CPPLib.o (malloc)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+                              obj\m328_16MHz\cores\arduino-0019\WMath.o (random)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+                              obj\m328_16MHz\cores\arduino-0019\WString.o (isspace)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(tolower.o)
+                              obj\m328_16MHz\cores\arduino-0019\WString.o (tolower)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(toupper.o)
+                              obj\m328_16MHz\cores\arduino-0019\WString.o (toupper)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcat.o)
+                              obj\m328_16MHz\cores\arduino-0019\WString.o (strcat)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strchr.o)
+                              obj\m328_16MHz\cores\arduino-0019\WString.o (strchr)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                              obj\m328_16MHz\cores\arduino-0019\WString.o (strcmp)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                              obj\m328_16MHz\cores\arduino-0019\WString.o (strcpy)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncmp.o)
+                              obj\m328_16MHz\cores\arduino-0019\WString.o (strncmp)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                              obj\m328_16MHz\cores\arduino-0019\WString.o (strncpy)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrchr.o)
+                              obj\m328_16MHz\cores\arduino-0019\WString.o (strrchr)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strstr.o)
+                              obj\m328_16MHz\cores\arduino-0019\WString.o (strstr)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(itoa.o)
+                              obj\m328_16MHz\cores\arduino-0019\WString.o (itoa)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                              obj\m328_16MHz\cores\arduino-0019\WString.o (ltoa)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa.o)
+                              obj\m328_16MHz\cores\arduino-0019\WString.o (ultoa)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+                              c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o) (__ctype_isfalse)
+c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+                              c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(itoa.o) (strrev)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+__flp               0x2               c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+
+Discarded input sections
+
+ .debug_abbrev  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+ .debug_info    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+ .debug_line    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+ .debug_frame   0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+ .debug_loc     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+ .debug_pubnames
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+ .debug_aranges
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+ .debug_ranges  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+ .debug_str     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+ .debug_abbrev  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+ .debug_info    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+ .debug_line    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+ .debug_frame   0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+ .debug_loc     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+ .debug_pubnames
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+ .debug_aranges
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+ .debug_ranges  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+ .debug_str     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+ .debug_abbrev  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\Print.o
+ .debug_info    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\Print.o
+ .debug_line    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\Print.o
+ .debug_frame   0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\Print.o
+ .debug_loc     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\Print.o
+ .debug_pubnames
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\Print.o
+ .debug_aranges
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\Print.o
+ .debug_ranges  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\Print.o
+ .debug_str     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\Print.o
+ .debug_abbrev  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\Tone.o
+ .debug_info    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\Tone.o
+ .debug_line    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\Tone.o
+ .debug_frame   0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\Tone.o
+ .debug_loc     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\Tone.o
+ .debug_pubnames
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\Tone.o
+ .debug_aranges
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\Tone.o
+ .debug_ranges  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\Tone.o
+ .debug_str     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\Tone.o
+ .debug_abbrev  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+ .debug_info    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+ .debug_line    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+ .debug_frame   0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+ .debug_loc     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+ .debug_pubnames
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+ .debug_aranges
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+ .debug_ranges  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+ .debug_str     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+ .debug_abbrev  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WMath.o
+ .debug_info    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WMath.o
+ .debug_line    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WMath.o
+ .debug_frame   0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WMath.o
+ .debug_loc     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WMath.o
+ .debug_pubnames
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WMath.o
+ .debug_aranges
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WMath.o
+ .debug_ranges  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WMath.o
+ .debug_str     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WMath.o
+ .debug_abbrev  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WString.o
+ .debug_info    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WString.o
+ .debug_line    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WString.o
+ .debug_frame   0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WString.o
+ .debug_loc     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WString.o
+ .debug_pubnames
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WString.o
+ .debug_aranges
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WString.o
+ .debug_ranges  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WString.o
+ .debug_str     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\WString.o
+ .debug_abbrev  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\pins_arduino.o
+ .debug_info    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\pins_arduino.o
+ .debug_line    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\pins_arduino.o
+ .debug_pubnames
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\pins_arduino.o
+ .debug_str     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\pins_arduino.o
+ .debug_abbrev  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring.o
+ .debug_info    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring.o
+ .debug_line    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring.o
+ .debug_frame   0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring.o
+ .debug_loc     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring.o
+ .debug_pubnames
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring.o
+ .debug_aranges
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring.o
+ .debug_ranges  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring.o
+ .debug_str     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring.o
+ .debug_abbrev  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+ .debug_info    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+ .debug_line    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+ .debug_frame   0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+ .debug_loc     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+ .debug_pubnames
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+ .debug_aranges
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+ .debug_ranges  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+ .debug_str     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+ .debug_abbrev  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+ .debug_info    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+ .debug_line    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+ .debug_frame   0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+ .debug_loc     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+ .debug_pubnames
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+ .debug_aranges
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+ .debug_ranges  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+ .debug_str     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+ .debug_abbrev  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_pulse.o
+ .debug_info    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_pulse.o
+ .debug_line    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_pulse.o
+ .debug_frame   0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_pulse.o
+ .debug_loc     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_pulse.o
+ .debug_pubnames
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_pulse.o
+ .debug_aranges
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_pulse.o
+ .debug_ranges  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_pulse.o
+ .debug_str     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_pulse.o
+ .debug_abbrev  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_shift.o
+ .debug_info    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_shift.o
+ .debug_line    0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_shift.o
+ .debug_frame   0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_shift.o
+ .debug_loc     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_shift.o
+ .debug_pubnames
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_shift.o
+ .debug_aranges
+                0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_shift.o
+ .debug_ranges  0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_shift.o
+ .debug_str     0x00000000        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_shift.o
+ .debug_abbrev  0x00000000        0x0 obj\m328_16MHz\main.o
+ .debug_info    0x00000000        0x0 obj\m328_16MHz\main.o
+ .debug_line    0x00000000        0x0 obj\m328_16MHz\main.o
+ .debug_frame   0x00000000        0x0 obj\m328_16MHz\main.o
+ .debug_pubnames
+                0x00000000        0x0 obj\m328_16MHz\main.o
+ .debug_aranges
+                0x00000000        0x0 obj\m328_16MHz\main.o
+ .debug_ranges  0x00000000        0x0 obj\m328_16MHz\main.o
+ .debug_str     0x00000000        0x0 obj\m328_16MHz\main.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+LOAD obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+LOAD obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+LOAD obj\m328_16MHz\cores\arduino-0019\Print.o
+LOAD obj\m328_16MHz\cores\arduino-0019\Tone.o
+LOAD obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+LOAD obj\m328_16MHz\cores\arduino-0019\WMath.o
+LOAD obj\m328_16MHz\cores\arduino-0019\WString.o
+LOAD obj\m328_16MHz\cores\arduino-0019\pins_arduino.o
+LOAD obj\m328_16MHz\cores\arduino-0019\wiring.o
+LOAD obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+LOAD obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+LOAD obj\m328_16MHz\cores\arduino-0019\wiring_pulse.o
+LOAD obj\m328_16MHz\cores\arduino-0019\wiring_shift.o
+LOAD obj\m328_16MHz\main.o
+LOAD c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a
+LOAD c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libm.a
+LOAD c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a
+LOAD c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a
+LOAD c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x3f2a
+ *(.vectors)
+ .vectors       0x00000000       0x68 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.tone  0x00000068        0x1 obj\m328_16MHz\cores\arduino-0019\Tone.o
+ .progmem.data  0x00000069       0x5a obj\m328_16MHz\cores\arduino-0019\pins_arduino.o
+                0x00000069                port_to_mode_PGM
+                0x00000087                digital_pin_to_port_PGM
+                0x0000009b                digital_pin_to_bit_mask_PGM
+                0x00000073                port_to_output_PGM
+                0x0000007d                port_to_input_PGM
+                0x000000af                digital_pin_to_timer_PGM
+                0x000000c4                . = ALIGN (0x2)
+ *fill*         0x000000c3        0x1 00
+                0x000000c4                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000c4        0x0 linker stubs
+ *(.trampolines*)
+                0x000000c4                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000c4                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000000c4        0x2 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+                0x000000c6                __ctors_end = .
+                0x000000c6                __dtors_start = .
+ *(.dtors)
+                0x000000c6                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000c6        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+                0x000000c6                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000c6        0xc c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000d2       0x16 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+                0x000000d2                __do_copy_data
+ .init4         0x000000e8       0x10 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+                0x000000e8                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x000000f8       0x16 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+                0x000000f8                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000010e        0x8 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000116        0x4 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+                0x00000116                __vector_22
+                0x00000116                __vector_24
+                0x00000116                __vector_12
+                0x00000116                __bad_interrupt
+                0x00000116                __vector_6
+                0x00000116                __vector_3
+                0x00000116                __vector_23
+                0x00000116                __vector_25
+                0x00000116                __vector_11
+                0x00000116                __vector_13
+                0x00000116                __vector_17
+                0x00000116                __vector_19
+                0x00000116                __vector_5
+                0x00000116                __vector_4
+                0x00000116                __vector_9
+                0x00000116                __vector_21
+                0x00000116                __vector_15
+                0x00000116                __vector_8
+                0x00000116                __vector_14
+                0x00000116                __vector_10
+                0x00000116                __vector_20
+ .text          0x0000011a        0x0 obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+ .text          0x0000011a        0x0 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+ .text          0x0000011a        0x0 obj\m328_16MHz\cores\arduino-0019\Print.o
+ .text          0x0000011a        0x0 obj\m328_16MHz\cores\arduino-0019\Tone.o
+ .text          0x0000011a        0x0 obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+ .text          0x0000011a        0x0 obj\m328_16MHz\cores\arduino-0019\WMath.o
+ .text          0x0000011a        0x0 obj\m328_16MHz\cores\arduino-0019\WString.o
+ .text          0x0000011a        0x0 obj\m328_16MHz\cores\arduino-0019\pins_arduino.o
+ .text          0x0000011a        0x0 obj\m328_16MHz\cores\arduino-0019\wiring.o
+ .text          0x0000011a        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+ .text          0x0000011a        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+ .text          0x0000011a        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_pulse.o
+ .text          0x0000011a        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_shift.o
+ .text          0x0000011a        0x0 obj\m328_16MHz\main.o
+ .text          0x0000011a        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+ .text          0x0000011a        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x0000011a        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x0000011a        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x0000011a        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .text          0x0000011a        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x0000011a        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x0000011a        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+ .text          0x0000011a       0x58 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o)
+                0x0000011a                __fixunssfsi
+ .text          0x00000172      0x354 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+                0x0000040a                __subsf3
+                0x0000046c                __addsf3
+ .text          0x000004c6      0x1f4 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+                0x000004c6                __mulsf3
+ .text          0x000006ba      0x158 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+                0x000006ba                __divsf3
+ .text          0x00000812       0x60 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+                0x00000812                __gesf2
+ .text          0x00000872       0x60 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+                0x00000872                __ltsf2
+ .text          0x000008d2       0xbc c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+                0x000008d2                __floatsisf
+ .text          0x0000098e       0xa8 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_sf_to_si.o)
+                0x0000098e                __fixsfsi
+ .text          0x00000a36        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x00000a36       0xf2 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+                0x00000a36                __floatunsisf
+ .text          0x00000b28        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000b28        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+ .text          0x00000b28        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000b28        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+ .text          0x00000b28       0x9e c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clzsi2.o)
+                0x00000b28                __clzsi2
+ .text          0x00000bc6      0x1aa c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_pack_sf.o)
+                0x00000bc6                __pack_f
+ .text          0x00000d70       0xf0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unpack_sf.o)
+                0x00000d70                __unpack_f
+ .text          0x00000e60       0xb2 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000e60                __fpcmp_parts_f
+ .text          0x00000f12        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clz.o)
+ .text          0x00000f12      0x20a c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x00000f12                malloc
+                0x0000106c                free
+ .text          0x0000111c       0xc2 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+                0x000011c2                random
+                0x000011bc                random_r
+                0x000011cc                srandom
+ .text          0x000011de        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .text          0x000011de        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .text          0x000011de        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .text          0x000011de       0x16 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcat.o)
+                0x000011de                strcat
+ .text          0x000011f4       0x16 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strchr.o)
+                0x000011f4                strchr
+ .text          0x0000120a       0x12 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                0x0000120a                strcmp
+ .text          0x0000121c        0xe c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                0x0000121c                strcpy
+ .text          0x0000122a       0x1c c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncmp.o)
+                0x0000122a                strncmp
+ .text          0x00001246       0x1e c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                0x00001246                strncpy
+ .text          0x00001264       0x16 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrchr.o)
+                0x00001264                strrchr
+ .text          0x0000127a       0x34 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strstr.o)
+                0x0000127a                strstr
+ .text          0x000012ae       0x42 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(itoa.o)
+                0x000012ae                itoa
+ .text          0x000012f0       0x68 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                0x000012f0                ltoa
+ .text          0x00001358       0x4a c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa.o)
+                0x00001358                ultoa
+ .text          0x000013a2        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .text          0x000013a2       0x20 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+                0x000013a2                strrev
+                0x000013c2                . = ALIGN (0x2)
+ *(.text.*)
+ .text.__cxa_pure_virtual
+                0x000013c2        0x2 obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+                0x000013c2                __cxa_pure_virtual
+ .text._Znwj    0x000013c4        0x6 obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+                0x000013c4                operator new(unsigned int)
+ .text._Znaj    0x000013ca        0x6 obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+                0x000013ca                operator new[](unsigned int)
+ .text._ZdlPv   0x000013d0        0xa obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+                0x000013d0                operator delete(void*)
+ .text._ZdaPv   0x000013da        0x6 obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+                0x000013da                operator delete[](void*)
+ .text.__vector_18
+                0x000013e0       0x7a obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+                0x000013e0                __vector_18
+ .text._ZN14HardwareSerialC2EP11ring_bufferPVhS3_S3_S3_S3_hhhhh
+                0x0000145a       0x60 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+                0x0000145a                HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+ .text._ZN14HardwareSerialC1EP11ring_bufferPVhS3_S3_S3_S3_hhhhh
+                0x000014ba       0x60 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+                0x000014ba                HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+ .text._ZN14HardwareSerial5beginEl
+                0x0000151a      0x240 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+                0x0000151a                HardwareSerial::begin(long)
+ .text._ZN14HardwareSerial3endEv
+                0x0000175a       0x54 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+                0x0000175a                HardwareSerial::end()
+ .text._ZN14HardwareSerial9availableEv
+                0x000017ae       0x28 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+                0x000017ae                HardwareSerial::available()
+ .text._ZN14HardwareSerial4peekEv
+                0x000017d6       0x34 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+                0x000017d6                HardwareSerial::peek()
+ .text._ZN14HardwareSerial4readEv
+                0x0000180a       0x50 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+                0x0000180a                HardwareSerial::read()
+ .text._ZN14HardwareSerial5flushEv
+                0x0000185a       0x18 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+                0x0000185a                HardwareSerial::flush()
+ .text._ZN14HardwareSerial5writeEh
+                0x00001872       0x26 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+                0x00001872                HardwareSerial::write(unsigned char)
+ .text._GLOBAL__I_rx_buffer
+                0x00001898       0x74 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+ .text._ZN5Print5writeEPKc
+                0x0000190c       0x30 obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x0000190c                Print::write(char const*)
+ .text._ZN5Print5writeEPKhj
+                0x0000193c       0x3e obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x0000193c                Print::write(unsigned char const*, unsigned int)
+ .text._ZN5Print5printEPKc
+                0x0000197a       0x10 obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x0000197a                Print::print(char const*)
+ .text._ZN5Print5printERK6String
+                0x0000198a       0x54 obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x0000198a                Print::print(String const&)
+ .text._ZN5Print11printNumberEmh
+                0x000019de      0x134 obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x000019de                Print::printNumber(unsigned long, unsigned char)
+ .text._ZN5Print5printEmi
+                0x00001b12       0x1e obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x00001b12                Print::print(unsigned long, int)
+ .text._ZN5Print5printEji
+                0x00001b30       0x22 obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x00001b30                Print::print(unsigned int, int)
+ .text._ZN5Print5printEhi
+                0x00001b52       0x24 obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x00001b52                Print::print(unsigned char, int)
+ .text._ZN5Print5printEli
+                0x00001b76       0x6c obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x00001b76                Print::print(long, int)
+ .text._ZN5Print5printEii
+                0x00001be2       0x26 obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x00001be2                Print::print(int, int)
+ .text._ZN5Print5printEci
+                0x00001c08       0x28 obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x00001c08                Print::print(char, int)
+ .text._ZN5Print7printlnEv
+                0x00001c30       0x2e obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x00001c30                Print::println()
+ .text._ZN5Print7printlnEmi
+                0x00001c5e       0x16 obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x00001c5e                Print::println(unsigned long, int)
+ .text._ZN5Print7printlnEji
+                0x00001c74       0x32 obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x00001c74                Print::println(unsigned int, int)
+ .text._ZN5Print7printlnEhi
+                0x00001ca6       0x34 obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x00001ca6                Print::println(unsigned char, int)
+ .text._ZN5Print7printlnEPKc
+                0x00001cda       0x16 obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x00001cda                Print::println(char const*)
+ .text._ZN5Print7printlnERK6String
+                0x00001cf0       0x16 obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x00001cf0                Print::println(String const&)
+ .text._ZN5Print7printlnEli
+                0x00001d06       0x16 obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x00001d06                Print::println(long, int)
+ .text._ZN5Print7printlnEii
+                0x00001d1c       0x36 obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x00001d1c                Print::println(int, int)
+ .text._ZN5Print7printlnEci
+                0x00001d52       0x38 obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x00001d52                Print::println(char, int)
+ .text._ZN5Print10printFloatEdh
+                0x00001d8a      0x118 obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x00001d8a                Print::printFloat(double, unsigned char)
+ .text._ZN5Print5printEdi
+                0x00001ea2        0x6 obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x00001ea2                Print::print(double, int)
+ .text._ZN5Print7printlnEdi
+                0x00001ea8       0x16 obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x00001ea8                Print::println(double, int)
+ .text._Z12disableTimerh
+                0x00001ebe       0x42 obj\m328_16MHz\cores\arduino-0019\Tone.o
+                0x00001ebe                disableTimer(unsigned char)
+ .text.__vector_7
+                0x00001f00       0xca obj\m328_16MHz\cores\arduino-0019\Tone.o
+                0x00001f00                __vector_7
+ .text._Z6noToneh
+                0x00001fca       0x2e obj\m328_16MHz\cores\arduino-0019\Tone.o
+                0x00001fca                noTone(unsigned char)
+ .text._Z4tonehjm
+                0x00001ff8      0x42a obj\m328_16MHz\cores\arduino-0019\Tone.o
+                0x00001ff8                tone(unsigned char, unsigned int, unsigned long)
+ .text.attachInterrupt
+                0x00002422       0x46 obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+                0x00002422                attachInterrupt
+ .text.detachInterrupt
+                0x00002468       0x26 obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+                0x00002468                detachInterrupt
+ .text.__vector_1
+                0x0000248e       0x5a obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+                0x0000248e                __vector_1
+ .text.__vector_2
+                0x000024e8       0x5a obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+                0x000024e8                __vector_2
+ .text._Z3maplllll
+                0x00002542       0x92 obj\m328_16MHz\cores\arduino-0019\WMath.o
+                0x00002542                map(long, long, long, long, long)
+ .text._Z8makeWordj
+                0x000025d4        0x2 obj\m328_16MHz\cores\arduino-0019\WMath.o
+                0x000025d4                makeWord(unsigned int)
+ .text._Z8makeWordhh
+                0x000025d6        0xe obj\m328_16MHz\cores\arduino-0019\WMath.o
+                0x000025d6                makeWord(unsigned char, unsigned char)
+ .text._Z6randoml
+                0x000025e4       0x44 obj\m328_16MHz\cores\arduino-0019\WMath.o
+                0x000025e4                random(long)
+ .text._Z6randomll
+                0x00002628       0x3c obj\m328_16MHz\cores\arduino-0019\WMath.o
+                0x00002628                random(long, long)
+ .text._Z10randomSeedj
+                0x00002664       0x10 obj\m328_16MHz\cores\arduino-0019\WMath.o
+                0x00002664                randomSeed(unsigned int)
+ .text._ZNK6String6charAtEj
+                0x00002674       0x10 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002674                String::charAt(unsigned int) const
+ .text._ZN6String9setCharAtEjc
+                0x00002684       0x22 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002684                String::setCharAt(unsigned int, char)
+ .text._ZN6StringixEj
+                0x000026a6       0x2a obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000026a6                String::operator[](unsigned int)
+ .text._ZNK6StringixEj
+                0x000026d0       0x10 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000026d0                String::operator[](unsigned int) const
+ .text._ZN6String11toCharArrayEPcj
+                0x000026e0       0x44 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000026e0                String::toCharArray(char*, unsigned int)
+ .text._ZN6String8getBytesEPhj
+                0x00002724       0x44 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002724                String::getBytes(unsigned char*, unsigned int)
+ .text._ZN6StringD1Ev
+                0x00002768       0x20 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002768                String::~String()
+ .text._ZNK6String10startsWithERKS_j
+                0x00002788       0x3c obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002788                String::startsWith(String const&, unsigned int) const
+ .text._ZNK6String10startsWithERKS_
+                0x000027c4       0x26 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000027c4                String::startsWith(String const&) const
+ .text._ZNK6String11lastIndexOfEcj
+                0x000027ea       0x6e obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000027ea                String::lastIndexOf(char, unsigned int) const
+ .text._ZNK6String11lastIndexOfEc
+                0x00002858       0x10 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002858                String::lastIndexOf(char) const
+ .text._ZNK6String7indexOfERKS_j
+                0x00002868       0x3c obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002868                String::indexOf(String const&, unsigned int) const
+ .text._ZNK6String7indexOfERKS_
+                0x000028a4        0xa obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000028a4                String::indexOf(String const&) const
+ .text._ZNK6String7indexOfEcj
+                0x000028ae       0x3c obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000028ae                String::indexOf(char, unsigned int) const
+ .text._ZNK6String7indexOfEc
+                0x000028ea        0xa obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000028ea                String::indexOf(char) const
+ .text._ZNK6String6equalsERKS_
+                0x000028f4       0x32 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000028f4                String::equals(String const&) const
+ .text._ZNK6String8endsWithERKS_
+                0x00002926       0x3a obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002926                String::endsWith(String const&) const
+ .text._ZNK6StringgeERKS_
+                0x00002960       0x28 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002960                String::operator>=(String const&) const
+ .text._ZNK6StringleERKS_
+                0x00002988       0x22 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002988                String::operator<=(String const&) const
+ .text._ZNK6StringgtERKS_
+                0x000029aa       0x22 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000029aa                String::operator>(String const&) const
+ .text._ZNK6StringltERKS_
+                0x000029cc       0x24 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000029cc                String::operator<(String const&) const
+ .text._ZNK6StringneERKS_
+                0x000029f0       0x30 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000029f0                String::operator!=(String const&) const
+ .text._ZNK6StringeqERKS_
+                0x00002a20       0x34 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002a20                String::operator==(String const&) const
+ .text._ZNK6String9compareToERKS_
+                0x00002a54       0x12 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002a54                String::compareTo(String const&) const
+ .text._ZN6String9getBufferEj
+                0x00002a66       0x28 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002a66                String::getBuffer(unsigned int)
+ .text._ZN6StringpLERKS_
+                0x00002a8e       0x6c obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002a8e                String::operator+=(String const&)
+ .text._ZN6String6concatERKS_
+                0x00002afa        0x6 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002afa                String::concat(String const&)
+ .text._ZN6StringaSERKS_
+                0x00002b00       0x60 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002b00                String::operator=(String const&)
+ .text._ZN6StringC1Eh
+                0x00002b60       0x34 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002b60                String::String(unsigned char)
+ .text._ZN6StringC2Eh
+                0x00002b94       0x34 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002b94                String::String(unsigned char)
+ .text._ZN6StringC1Ec
+                0x00002bc8       0x34 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002bc8                String::String(char)
+ .text._ZN6StringC2Ec
+                0x00002bfc       0x34 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002bfc                String::String(char)
+ .text._ZN6StringC1ERKS_
+                0x00002c30       0x36 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002c30                String::String(String const&)
+ .text._ZN6StringC2ERKS_
+                0x00002c66       0x36 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002c66                String::String(String const&)
+ .text._ZN6StringC1Em
+                0x00002c9c       0x7e obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002c9c                String::String(unsigned long)
+ .text._ZN6StringC2Em
+                0x00002d1a       0x7e obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002d1a                String::String(unsigned long)
+ .text._ZN6StringC1Eji
+                0x00002d98       0x7c obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002d98                String::String(unsigned int, int)
+ .text._ZN6StringC2Eji
+                0x00002e14       0x7c obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002e14                String::String(unsigned int, int)
+ .text._ZN6StringC1EPKc
+                0x00002e90       0x50 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002e90                String::String(char const*)
+ .text._ZNK6String11toUpperCaseEv
+                0x00002ee0       0x76 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002ee0                String::toUpperCase() const
+ .text._ZNK6String11toLowerCaseEv
+                0x00002f56       0x76 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002f56                String::toLowerCase() const
+ .text._ZNK6String16equalsIgnoreCaseERKS_
+                0x00002fcc       0x98 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00002fcc                String::equalsIgnoreCase(String const&) const
+ .text._ZNK6String9substringEjj
+                0x00003064       0x6e obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00003064                String::substring(unsigned int, unsigned int) const
+ .text._ZNK6String9substringEj
+                0x000030d2       0x18 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000030d2                String::substring(unsigned int) const
+ .text._ZNK6String11lastIndexOfERKS_j
+                0x000030ea       0xca obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000030ea                String::lastIndexOf(String const&, unsigned int) const
+ .text._ZNK6String11lastIndexOfERKS_
+                0x000031b4       0x1c obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000031b4                String::lastIndexOf(String const&) const
+ .text._ZNK6String4trimEv
+                0x000031d0       0xde obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000031d0                String::trim() const
+ .text._ZN6String7replaceERKS_S1_
+                0x000032ae      0x136 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000032ae                String::replace(String const&, String const&)
+ .text._ZN6String7replaceEcc
+                0x000033e4       0x88 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000033e4                String::replace(char, char)
+ .text._ZN6StringC2EPKc
+                0x0000346c       0x50 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x0000346c                String::String(char const*)
+ .text._ZN6StringC1Eli
+                0x000034bc       0x7a obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000034bc                String::String(long, int)
+ .text._ZN6StringC2Eli
+                0x00003536       0x7a obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00003536                String::String(long, int)
+ .text._ZN6StringC1Eii
+                0x000035b0       0x78 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x000035b0                String::String(int, int)
+ .text._ZN6StringC2Eii
+                0x00003628       0x78 obj\m328_16MHz\cores\arduino-0019\WString.o
+                0x00003628                String::String(int, int)
+ .text.__vector_16
+                0x000036a0       0x90 obj\m328_16MHz\cores\arduino-0019\wiring.o
+                0x000036a0                __vector_16
+ .text.millis   0x00003730       0x1c obj\m328_16MHz\cores\arduino-0019\wiring.o
+                0x00003730                millis
+ .text.micros   0x0000374c       0x4c obj\m328_16MHz\cores\arduino-0019\wiring.o
+                0x0000374c                micros
+ .text.delay    0x00003798       0xb2 obj\m328_16MHz\cores\arduino-0019\wiring.o
+                0x00003798                delay
+ .text.delayMicroseconds
+                0x0000384a       0x14 obj\m328_16MHz\cores\arduino-0019\wiring.o
+                0x0000384a                delayMicroseconds
+ .text.init     0x0000385e       0x74 obj\m328_16MHz\cores\arduino-0019\wiring.o
+                0x0000385e                init
+ .text.analogReference
+                0x000038d2        0x6 obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+                0x000038d2                analogReference
+ .text.analogRead
+                0x000038d8       0x44 obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+                0x000038d8                analogRead
+ .text.analogWrite
+                0x0000391c       0xb2 obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+                0x0000391c                analogWrite
+ .text.pinMode  0x000039ce       0x4c obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+                0x000039ce                pinMode
+ .text.digitalWrite
+                0x00003a1a       0xa8 obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+                0x00003a1a                digitalWrite
+ .text.digitalRead
+                0x00003ac2       0x9e obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+                0x00003ac2                digitalRead
+ .text.pulseIn  0x00003b60      0x102 obj\m328_16MHz\cores\arduino-0019\wiring_pulse.o
+                0x00003b60                pulseIn
+ .text.shiftOut
+                0x00003c62       0x84 obj\m328_16MHz\cores\arduino-0019\wiring_shift.o
+                0x00003c62                shiftOut
+ .text.shiftIn  0x00003ce6       0x80 obj\m328_16MHz\cores\arduino-0019\wiring_shift.o
+                0x00003ce6                shiftIn
+ .text.setup    0x00003d66        0x2 obj\m328_16MHz\main.o
+                0x00003d66                setup
+ .text.loop     0x00003d68        0x2 obj\m328_16MHz\main.o
+                0x00003d68                loop
+ .text.main     0x00003d6a        0x6 obj\m328_16MHz\main.o
+                0x00003d6a                main
+ .text.libgcc   0x00003d70       0x3e c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+                0x00003d70                __mulsi3
+ .text.libgcc   0x00003dae       0x26 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+                0x00003dae                __divmodhi4
+                0x00003dae                _div
+ .text.libgcc   0x00003dd4       0x44 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+                0x00003dd4                __udivmodsi4
+ .text.libgcc   0x00003e18       0x36 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+                0x00003e18                __divmodsi4
+ .text.libgcc   0x00003e4e        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00003e4e        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00003e4e        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00003e4e        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00003e4e       0x28 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+                0x00003e4e                __udivmodhi4
+ .text.libgcc   0x00003e76       0x38 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+                0x00003e76                __prologue_saves__
+ .text.libgcc   0x00003eae       0x36 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+                0x00003eae                __epilogue_restores__
+ .text.libgcc   0x00003ee4        0xc c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+                0x00003ee8                __tablejump__
+                0x00003ee4                __tablejump2__
+ .text.ctype    0x00003ef0       0x10 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+                0x00003ef0                isspace
+ .text.ctype    0x00003f00       0x10 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(tolower.o)
+                0x00003f00                tolower
+ .text.ctype    0x00003f10       0x10 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(toupper.o)
+                0x00003f10                toupper
+ .text.ctype    0x00003f20        0x6 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+                0x00003f24                __ctype_istrue
+                0x00003f20                __ctype_isfalse
+                0x00003f26                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00003f26        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+                0x00003f26                exit
+                0x00003f26                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00003f26        0x4 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00003f2a                _etext = .
+
+.data           0x00800100      0x144 load address 0x00003f2a
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+ .data          0x00800100        0x0 obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+ .data          0x00800100        0x0 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+ .data          0x00800100        0x2 obj\m328_16MHz\cores\arduino-0019\Print.o
+ .data          0x00800102        0x0 obj\m328_16MHz\cores\arduino-0019\Tone.o
+ .data          0x00800102        0x0 obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+ .data          0x00800102        0x0 obj\m328_16MHz\cores\arduino-0019\WMath.o
+ .data          0x00800102        0x1 obj\m328_16MHz\cores\arduino-0019\WString.o
+ .data          0x00800103        0x0 obj\m328_16MHz\cores\arduino-0019\pins_arduino.o
+ .data          0x00800103        0x0 obj\m328_16MHz\cores\arduino-0019\wiring.o
+ .data          0x00800103        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+ .data          0x00800103        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+ .data          0x00800103        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_pulse.o
+ .data          0x00800103        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_shift.o
+ .data          0x00800103        0x0 obj\m328_16MHz\main.o
+ .data          0x00800103        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00800103        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00800103        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00800103        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00800103        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .data          0x00800103        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800103        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800103        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+ .data          0x00800103        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x00800103        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x00800103        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+ .data          0x00800103        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+ .data          0x00800103        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+ .data          0x00800103        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+ .data          0x00800103        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+ .data          0x00800103        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x00800103        0x8 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_thenan_sf.o)
+                0x00800103                __thenan_sf
+ .data          0x0080010b        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+ .data          0x0080010b        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x0080010b        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+ .data          0x0080010b        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+ .data          0x0080010b        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+ .data          0x0080010b        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clzsi2.o)
+ .data          0x0080010b        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_pack_sf.o)
+ .data          0x0080010b        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x0080010b        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x0080010b      0x100 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clz.o)
+                0x0080010b                __clz_tab
+ .data          0x0080020b        0x6 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x0080020d                __malloc_heap_start
+                0x0080020f                __malloc_heap_end
+                0x0080020b                __malloc_margin
+ .data          0x00800211        0x4 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+ .data          0x00800215        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .data          0x00800215        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .data          0x00800215        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .data          0x00800215        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcat.o)
+ .data          0x00800215        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .data          0x00800215        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .data          0x00800215        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .data          0x00800215        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncmp.o)
+ .data          0x00800215        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .data          0x00800215        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrchr.o)
+ .data          0x00800215        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .data          0x00800215        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .data          0x00800215        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .data          0x00800215        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa.o)
+ .data          0x00800215        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .data          0x00800215        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+ *(.data*)
+ .data._ZL9tone_pins
+                0x00800215        0x1 obj\m328_16MHz\cores\arduino-0019\Tone.o
+ .data.analog_reference
+                0x00800216        0x1 obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+                0x00800216                analog_reference
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZTV14HardwareSerial
+                0x00800217       0x12 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+                0x00800217                vtable for HardwareSerial
+ .rodata._ZTV6Stream
+                0x00800229       0x10 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+                0x00800229                vtable for Stream
+ .rodata._ZTV5Print
+                0x00800239        0xa obj\m328_16MHz\cores\arduino-0019\Print.o
+                0x00800239                vtable for Print
+ *(.gnu.linkonce.d*)
+                0x00800244                . = ALIGN (0x2)
+ *fill*         0x00800243        0x1 00
+                0x00800244                _edata = .
+                0x00800244                PROVIDE (__data_end, .)
+
+.bss            0x00800244       0xbe
+                0x00800244                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+ .bss           0x00800244        0x0 obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+ .bss           0x00800244        0x0 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+ .bss           0x00800244        0x0 obj\m328_16MHz\cores\arduino-0019\Print.o
+ .bss           0x00800244        0x0 obj\m328_16MHz\cores\arduino-0019\Tone.o
+ .bss           0x00800244        0x0 obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+ .bss           0x00800244        0x0 obj\m328_16MHz\cores\arduino-0019\WMath.o
+ .bss           0x00800244        0x0 obj\m328_16MHz\cores\arduino-0019\WString.o
+ .bss           0x00800244        0x0 obj\m328_16MHz\cores\arduino-0019\pins_arduino.o
+ .bss           0x00800244        0x0 obj\m328_16MHz\cores\arduino-0019\wiring.o
+ .bss           0x00800244        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+ .bss           0x00800244        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+ .bss           0x00800244        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_pulse.o
+ .bss           0x00800244        0x0 obj\m328_16MHz\cores\arduino-0019\wiring_shift.o
+ .bss           0x00800244        0x0 obj\m328_16MHz\main.o
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clzsi2.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clz.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcat.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncmp.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrchr.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .bss           0x00800244        0x0 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+ *(.bss*)
+ .bss.rx_buffer
+                0x00800244       0x84 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+                0x00800244                rx_buffer
+ .bss.Serial    0x008002c8       0x13 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+                0x008002c8                Serial
+ .bss.timer0_toggle_count
+                0x008002db        0x4 obj\m328_16MHz\cores\arduino-0019\Tone.o
+                0x008002db                timer0_toggle_count
+ .bss.timer0_pin_port
+                0x008002df        0x2 obj\m328_16MHz\cores\arduino-0019\Tone.o
+                0x008002df                timer0_pin_port
+ .bss.timer0_pin_mask
+                0x008002e1        0x1 obj\m328_16MHz\cores\arduino-0019\Tone.o
+                0x008002e1                timer0_pin_mask
+ .bss.timer1_toggle_count
+                0x008002e2        0x4 obj\m328_16MHz\cores\arduino-0019\Tone.o
+                0x008002e2                timer1_toggle_count
+ .bss.timer1_pin_port
+                0x008002e6        0x2 obj\m328_16MHz\cores\arduino-0019\Tone.o
+                0x008002e6                timer1_pin_port
+ .bss.timer1_pin_mask
+                0x008002e8        0x1 obj\m328_16MHz\cores\arduino-0019\Tone.o
+                0x008002e8                timer1_pin_mask
+ .bss.timer2_toggle_count
+                0x008002e9        0x4 obj\m328_16MHz\cores\arduino-0019\Tone.o
+                0x008002e9                timer2_toggle_count
+ .bss.timer2_pin_port
+                0x008002ed        0x2 obj\m328_16MHz\cores\arduino-0019\Tone.o
+                0x008002ed                timer2_pin_port
+ .bss.timer2_pin_mask
+                0x008002ef        0x1 obj\m328_16MHz\cores\arduino-0019\Tone.o
+                0x008002ef                timer2_pin_mask
+ .bss.intFunc   0x008002f0        0x4 obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+ .bss._ZZN6StringixEjE19dummy_writable_char
+                0x008002f4        0x1 obj\m328_16MHz\cores\arduino-0019\WString.o
+ .bss.timer0_overflow_count
+                0x008002f5        0x4 obj\m328_16MHz\cores\arduino-0019\wiring.o
+                0x008002f5                timer0_overflow_count
+ .bss.timer0_millis
+                0x008002f9        0x4 obj\m328_16MHz\cores\arduino-0019\wiring.o
+                0x008002f9                timer0_millis
+ .bss.timer0_fract
+                0x008002fd        0x1 obj\m328_16MHz\cores\arduino-0019\wiring.o
+ *(COMMON)
+ COMMON         0x008002fe        0x4 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x008002fe                __brkval
+                0x00800300                __flp
+                0x00800302                PROVIDE (__bss_end, .)
+                0x00003f2a                __data_load_start = LOADADDR (.data)
+                0x0000406e                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800302        0x0
+                0x00800302                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800302                PROVIDE (__noinit_end, .)
+                0x00800302                _end = .
+                0x00800302                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(obj\m328_16MHz\EmptyApp.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges
+
+Cross Reference Table
+
+Symbol                                            File
+HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+HardwareSerial::available()                       obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+HardwareSerial::begin(long)                       obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+HardwareSerial::end()                             obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+HardwareSerial::flush()                           obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+HardwareSerial::peek()                            obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+HardwareSerial::read()                            obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+HardwareSerial::write(unsigned char)              obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+Print::print(String const&)                       obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::print(char const*)                         obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::print(char, int)                           obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::print(double, int)                         obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::print(int, int)                            obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::print(long, int)                           obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::print(unsigned char, int)                  obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::print(unsigned int, int)                   obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::print(unsigned long, int)                  obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::printFloat(double, unsigned char)          obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::printNumber(unsigned long, unsigned char)  obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::println()                                  obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::println(String const&)                     obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::println(char const*)                       obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::println(char, int)                         obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::println(double, int)                       obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::println(int, int)                          obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::println(long, int)                         obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::println(unsigned char, int)                obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::println(unsigned int, int)                 obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::println(unsigned long, int)                obj\m328_16MHz\cores\arduino-0019\Print.o
+Print::write(char const*)                         obj\m328_16MHz\cores\arduino-0019\Print.o
+                                                  obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+Print::write(unsigned char const*, unsigned int)  obj\m328_16MHz\cores\arduino-0019\Print.o
+                                                  obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+Serial                                            obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+String::String(String const&)                     obj\m328_16MHz\cores\arduino-0019\WString.o
+String::String(String const&)                     obj\m328_16MHz\cores\arduino-0019\WString.o
+String::String(char const*)                       obj\m328_16MHz\cores\arduino-0019\WString.o
+String::String(char const*)                       obj\m328_16MHz\cores\arduino-0019\WString.o
+String::String(char)                              obj\m328_16MHz\cores\arduino-0019\WString.o
+String::String(char)                              obj\m328_16MHz\cores\arduino-0019\WString.o
+String::String(int, int)                          obj\m328_16MHz\cores\arduino-0019\WString.o
+String::String(int, int)                          obj\m328_16MHz\cores\arduino-0019\WString.o
+String::String(long, int)                         obj\m328_16MHz\cores\arduino-0019\WString.o
+String::String(long, int)                         obj\m328_16MHz\cores\arduino-0019\WString.o
+String::String(unsigned char)                     obj\m328_16MHz\cores\arduino-0019\WString.o
+String::String(unsigned char)                     obj\m328_16MHz\cores\arduino-0019\WString.o
+String::String(unsigned int, int)                 obj\m328_16MHz\cores\arduino-0019\WString.o
+String::String(unsigned int, int)                 obj\m328_16MHz\cores\arduino-0019\WString.o
+String::String(unsigned long)                     obj\m328_16MHz\cores\arduino-0019\WString.o
+String::String(unsigned long)                     obj\m328_16MHz\cores\arduino-0019\WString.o
+String::charAt(unsigned int) const                obj\m328_16MHz\cores\arduino-0019\WString.o
+String::compareTo(String const&) const            obj\m328_16MHz\cores\arduino-0019\WString.o
+String::concat(String const&)                     obj\m328_16MHz\cores\arduino-0019\WString.o
+String::endsWith(String const&) const             obj\m328_16MHz\cores\arduino-0019\WString.o
+String::equals(String const&) const               obj\m328_16MHz\cores\arduino-0019\WString.o
+String::equalsIgnoreCase(String const&) const     obj\m328_16MHz\cores\arduino-0019\WString.o
+String::getBuffer(unsigned int)                   obj\m328_16MHz\cores\arduino-0019\WString.o
+String::getBytes(unsigned char*, unsigned int)    obj\m328_16MHz\cores\arduino-0019\WString.o
+String::indexOf(String const&) const              obj\m328_16MHz\cores\arduino-0019\WString.o
+String::indexOf(String const&, unsigned int) const obj\m328_16MHz\cores\arduino-0019\WString.o
+String::indexOf(char) const                       obj\m328_16MHz\cores\arduino-0019\WString.o
+String::indexOf(char, unsigned int) const         obj\m328_16MHz\cores\arduino-0019\WString.o
+String::lastIndexOf(String const&) const          obj\m328_16MHz\cores\arduino-0019\WString.o
+String::lastIndexOf(String const&, unsigned int) const obj\m328_16MHz\cores\arduino-0019\WString.o
+String::lastIndexOf(char) const                   obj\m328_16MHz\cores\arduino-0019\WString.o
+String::lastIndexOf(char, unsigned int) const     obj\m328_16MHz\cores\arduino-0019\WString.o
+String::operator!=(String const&) const           obj\m328_16MHz\cores\arduino-0019\WString.o
+String::operator+=(String const&)                 obj\m328_16MHz\cores\arduino-0019\WString.o
+String::operator<(String const&) const            obj\m328_16MHz\cores\arduino-0019\WString.o
+String::operator<=(String const&) const           obj\m328_16MHz\cores\arduino-0019\WString.o
+String::operator=(String const&)                  obj\m328_16MHz\cores\arduino-0019\WString.o
+String::operator==(String const&) const           obj\m328_16MHz\cores\arduino-0019\WString.o
+String::operator>(String const&) const            obj\m328_16MHz\cores\arduino-0019\WString.o
+String::operator>=(String const&) const           obj\m328_16MHz\cores\arduino-0019\WString.o
+String::operator[](unsigned int)                  obj\m328_16MHz\cores\arduino-0019\WString.o
+String::operator[](unsigned int) const            obj\m328_16MHz\cores\arduino-0019\WString.o
+                                                  obj\m328_16MHz\cores\arduino-0019\Print.o
+String::replace(String const&, String const&)     obj\m328_16MHz\cores\arduino-0019\WString.o
+String::replace(char, char)                       obj\m328_16MHz\cores\arduino-0019\WString.o
+String::setCharAt(unsigned int, char)             obj\m328_16MHz\cores\arduino-0019\WString.o
+String::startsWith(String const&) const           obj\m328_16MHz\cores\arduino-0019\WString.o
+String::startsWith(String const&, unsigned int) const obj\m328_16MHz\cores\arduino-0019\WString.o
+String::substring(unsigned int) const             obj\m328_16MHz\cores\arduino-0019\WString.o
+String::substring(unsigned int, unsigned int) const obj\m328_16MHz\cores\arduino-0019\WString.o
+String::toCharArray(char*, unsigned int)          obj\m328_16MHz\cores\arduino-0019\WString.o
+String::toLowerCase() const                       obj\m328_16MHz\cores\arduino-0019\WString.o
+String::toUpperCase() const                       obj\m328_16MHz\cores\arduino-0019\WString.o
+String::trim() const                              obj\m328_16MHz\cores\arduino-0019\WString.o
+String::~String()                                 obj\m328_16MHz\cores\arduino-0019\WString.o
+__addsf3                                          c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\Print.o
+__bad_interrupt                                   c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__brkval                                          c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+__bss_end                                         c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+__bss_start                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+__clz_tab                                         c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clz.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clzsi2.o)
+__clzsi2                                          c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clzsi2.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+__ctors_end                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+__ctors_start                                     c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+__ctype_isfalse                                   c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+__ctype_istrue                                    c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+__cxa_pure_virtual                                obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+                                                  obj\m328_16MHz\cores\arduino-0019\Print.o
+                                                  obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+__data_end                                        c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+__data_load_start                                 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+__data_start                                      c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+__divmodhi4                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+__divmodsi4                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\WMath.o
+__divsf3                                          c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\Print.o
+__do_clear_bss                                    c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clear_bss.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\wiring.o
+                                                  obj\m328_16MHz\cores\arduino-0019\WString.o
+                                                  obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+                                                  obj\m328_16MHz\cores\arduino-0019\Tone.o
+                                                  obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+__do_copy_data                                    c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_copy_data.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_clz.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_thenan_sf.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+                                                  obj\m328_16MHz\cores\arduino-0019\WString.o
+                                                  obj\m328_16MHz\cores\arduino-0019\Tone.o
+                                                  obj\m328_16MHz\cores\arduino-0019\Print.o
+                                                  obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+__do_global_ctors                                 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+__epilogue_restores__                             c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_epilogue.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_sf_to_si.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+__fixsfsi                                         c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_sf_to_si.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\Print.o
+__fixunssfsi                                      c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\Print.o
+__floatsisf                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\Print.o
+__floatunsisf                                     c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\Print.o
+__flp                                             c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+__fpcmp_parts_f                                   c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+__gesf2                                           c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o)
+__heap_end                                        c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+__heap_start                                      c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+__init                                            c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__ltsf2                                           c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\Print.o
+__malloc_heap_end                                 c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+__malloc_heap_start                               c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+__malloc_margin                                   c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+__mulsf3                                          c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\Print.o
+__mulsi3                                          c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mulsi3.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\wiring_pulse.o
+                                                  obj\m328_16MHz\cores\arduino-0019\WMath.o
+                                                  obj\m328_16MHz\cores\arduino-0019\Tone.o
+                                                  obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+__pack_f                                          c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_pack_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+__prologue_saves__                                c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_prologue.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_usi_to_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_sf_to_si.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_si_to_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+__stack                                           c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__subsf3                                          c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_fixunssfsi.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\Print.o
+__tablejump2__                                    c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+__tablejump__                                     c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_tablejump.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ctors.o)
+__thenan_sf                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_thenan_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+__udivmodhi4                                      c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodhi4.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(itoa.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+__udivmodsi4                                      c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_udivmodsi4.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodsi4.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\Tone.o
+                                                  obj\m328_16MHz\cores\arduino-0019\Print.o
+                                                  obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+__unpack_f                                        c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_unpack_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_sf_to_si.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_lt_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_ge_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_div_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_mul_sf.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_addsub_sf.o)
+__vector_1                                        obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_10                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_11                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_12                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_13                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_14                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_15                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_16                                       obj\m328_16MHz\cores\arduino-0019\wiring.o
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_17                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_18                                       obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_19                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_2                                        obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_20                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_21                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_22                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_23                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_24                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_25                                       c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_3                                        c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_4                                        c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_5                                        c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_6                                        c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_7                                        obj\m328_16MHz\cores\arduino-0019\Tone.o
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_8                                        c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_9                                        c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_default                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+__vectors                                         c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+_div                                              c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_divmodhi4.o)
+_exit                                             c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+analogRead                                        obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+analogReference                                   obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+analogWrite                                       obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+analog_reference                                  obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+attachInterrupt                                   obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+delay                                             obj\m328_16MHz\cores\arduino-0019\wiring.o
+delayMicroseconds                                 obj\m328_16MHz\cores\arduino-0019\wiring.o
+detachInterrupt                                   obj\m328_16MHz\cores\arduino-0019\WInterrupts.o
+digitalRead                                       obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+                                                  obj\m328_16MHz\cores\arduino-0019\wiring_shift.o
+digitalWrite                                      obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+                                                  obj\m328_16MHz\cores\arduino-0019\wiring_shift.o
+                                                  obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+                                                  obj\m328_16MHz\cores\arduino-0019\Tone.o
+digital_pin_to_bit_mask_PGM                       obj\m328_16MHz\cores\arduino-0019\pins_arduino.o
+                                                  obj\m328_16MHz\cores\arduino-0019\wiring_pulse.o
+                                                  obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+                                                  obj\m328_16MHz\cores\arduino-0019\Tone.o
+digital_pin_to_port_PGM                           obj\m328_16MHz\cores\arduino-0019\pins_arduino.o
+                                                  obj\m328_16MHz\cores\arduino-0019\wiring_pulse.o
+                                                  obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+                                                  obj\m328_16MHz\cores\arduino-0019\Tone.o
+digital_pin_to_timer_PGM                          obj\m328_16MHz\cores\arduino-0019\pins_arduino.o
+                                                  obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+                                                  obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+disableTimer(unsigned char)                       obj\m328_16MHz\cores\arduino-0019\Tone.o
+exit                                              c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr5\libgcc.a(_exit.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+free                                              c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\WString.o
+                                                  obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+init                                              obj\m328_16MHz\cores\arduino-0019\wiring.o
+                                                  obj\m328_16MHz\main.o
+isspace                                           c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\WString.o
+itoa                                              c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(itoa.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\WString.o
+loop                                              obj\m328_16MHz\main.o
+ltoa                                              c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\WString.o
+main                                              obj\m328_16MHz\main.o
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5/crtm328p.o
+makeWord(unsigned char, unsigned char)            obj\m328_16MHz\cores\arduino-0019\WMath.o
+makeWord(unsigned int)                            obj\m328_16MHz\cores\arduino-0019\WMath.o
+malloc                                            c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\WString.o
+                                                  obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+map(long, long, long, long, long)                 obj\m328_16MHz\cores\arduino-0019\WMath.o
+micros                                            obj\m328_16MHz\cores\arduino-0019\wiring.o
+millis                                            obj\m328_16MHz\cores\arduino-0019\wiring.o
+noTone(unsigned char)                             obj\m328_16MHz\cores\arduino-0019\Tone.o
+operator delete(void*)                            obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+operator delete[](void*)                          obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+operator new(unsigned int)                        obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+operator new[](unsigned int)                      obj\m328_16MHz\cores\arduino-0019\CPPLib.o
+pinMode                                           obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+                                                  obj\m328_16MHz\cores\arduino-0019\wiring_analog.o
+                                                  obj\m328_16MHz\cores\arduino-0019\Tone.o
+port_to_input_PGM                                 obj\m328_16MHz\cores\arduino-0019\pins_arduino.o
+                                                  obj\m328_16MHz\cores\arduino-0019\wiring_pulse.o
+                                                  obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+port_to_mode_PGM                                  obj\m328_16MHz\cores\arduino-0019\pins_arduino.o
+                                                  obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+port_to_output_PGM                                obj\m328_16MHz\cores\arduino-0019\pins_arduino.o
+                                                  obj\m328_16MHz\cores\arduino-0019\wiring_digital.o
+                                                  obj\m328_16MHz\cores\arduino-0019\Tone.o
+pulseIn                                           obj\m328_16MHz\cores\arduino-0019\wiring_pulse.o
+random                                            c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\WMath.o
+random(long)                                      obj\m328_16MHz\cores\arduino-0019\WMath.o
+random(long, long)                                obj\m328_16MHz\cores\arduino-0019\WMath.o
+randomSeed(unsigned int)                          obj\m328_16MHz\cores\arduino-0019\WMath.o
+random_r                                          c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+rx_buffer                                         obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+setup                                             obj\m328_16MHz\main.o
+shiftIn                                           obj\m328_16MHz\cores\arduino-0019\wiring_shift.o
+shiftOut                                          obj\m328_16MHz\cores\arduino-0019\wiring_shift.o
+srandom                                           c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(random.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\WMath.o
+strcat                                            c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcat.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\WString.o
+strchr                                            c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strchr.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\WString.o
+strcmp                                            c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\WString.o
+strcpy                                            c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\WString.o
+strncmp                                           c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncmp.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\WString.o
+strncpy                                           c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\WString.o
+strrchr                                           c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrchr.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\WString.o
+strrev                                            c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                                                  c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(itoa.o)
+strstr                                            c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(strstr.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\WString.o
+timer0_millis                                     obj\m328_16MHz\cores\arduino-0019\wiring.o
+timer0_overflow_count                             obj\m328_16MHz\cores\arduino-0019\wiring.o
+timer0_pin_mask                                   obj\m328_16MHz\cores\arduino-0019\Tone.o
+timer0_pin_port                                   obj\m328_16MHz\cores\arduino-0019\Tone.o
+timer0_toggle_count                               obj\m328_16MHz\cores\arduino-0019\Tone.o
+timer1_pin_mask                                   obj\m328_16MHz\cores\arduino-0019\Tone.o
+timer1_pin_port                                   obj\m328_16MHz\cores\arduino-0019\Tone.o
+timer1_toggle_count                               obj\m328_16MHz\cores\arduino-0019\Tone.o
+timer2_pin_mask                                   obj\m328_16MHz\cores\arduino-0019\Tone.o
+timer2_pin_port                                   obj\m328_16MHz\cores\arduino-0019\Tone.o
+timer2_toggle_count                               obj\m328_16MHz\cores\arduino-0019\Tone.o
+tolower                                           c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(tolower.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\WString.o
+tone(unsigned char, unsigned int, unsigned long)  obj\m328_16MHz\cores\arduino-0019\Tone.o
+toupper                                           c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(toupper.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\WString.o
+ultoa                                             c:/projects/multiplo/soft/codeblocks-rg/v1.0/soft/sdk/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr5\libc.a(ultoa.o)
+                                                  obj\m328_16MHz\cores\arduino-0019\WString.o
+vtable for HardwareSerial                         obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o
+vtable for Print                                  obj\m328_16MHz\cores\arduino-0019\Print.o
+vtable for Stream                                 obj\m328_16MHz\cores\arduino-0019\HardwareSerial.o

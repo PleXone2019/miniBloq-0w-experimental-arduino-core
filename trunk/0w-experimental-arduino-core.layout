@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="m328p_16Mhz" />
+	<File name="cores\arduino-0019\CPPLib.h" open="0" top="0" tabpos="0">
+		<Cursor position="88" topLine="0" />
+	</File>
+	<File name="cores\arduino-0019\HardwareSerial.h" open="0" top="0" tabpos="0">
+		<Cursor position="323" topLine="37" />
+	</File>
+	<File name="cores\arduino-0019\WString.h" open="0" top="0" tabpos="0">
+		<Cursor position="2884" topLine="60" />
+	</File>
+	<File name="cores\arduino-0019\pins_arduino.c" open="0" top="0" tabpos="0">
+		<Cursor position="11688" topLine="394" />
+	</File>
+	<File name="cores\arduino-0019\wiring.h" open="0" top="0" tabpos="2">
+		<Cursor position="1075" topLine="13" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="131" topLine="17" />
+	</File>
+	<File name="main.pde" open="1" top="1" tabpos="0">
+		<Cursor position="41" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
