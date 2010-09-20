@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="0w-experimental-arduino-core" />
+		<Option pch_mode="2" />
+		<Option compiler="avrgcc" />
+		<Build>
+			<Target title="m328p_16Mhz">
+				<Option output="obj\m328_16MHz\EmptyApp.elf" prefix_auto="1" extension_auto="0" />
+				<Option object_output="obj\m328_16MHz" />
+				<Option type="1" />
+				<Option compiler="avrgcc" />
+				<ExtraCommands>
+					<Add after="avr-size --mcu=atmega328p --format=avr $(TARGET_OUTPUT_FILE)" />
+				</ExtraCommands>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Os" />
+			<Add option="-Wmain" />
+			<Add option="-W" />
+			<Add option="-Wall" />
+			<Add option="-g" />
+			<Add option="-c" />
+			<Add option="-ffunction-sections" />
+			<Add option="-fdata-sections" />
+			<Add option="-mmcu=atmega328p" />
+			<Add option="-DF_CPU=16000000UL" />
+			<Add option="-DARDUINO=19" />
+			<Add directory="cores\arduino-0019" />
+			<Add directory="." />
+		</Compiler>
+		<Linker>
+			<Add option="-s" />
+			<Add option="-mmcu=atmega328p" />
+			<Add option="-Wl,-Map=$(TARGET_OUTPUT_FILE).map,--cref" />
+		</Linker>
+		<ExtraCommands>
+			<Add after="avr-objcopy -O ihex -R .eeprom -R .eesafe $(TARGET_OUTPUT_FILE) $(TARGET_OUTPUT_FILE).hex" />
+			<Add after="avr-objcopy --no-change-warnings -j .eeprom --change-section-lma .eeprom=0 -O ihex $(TARGET_OUTPUT_FILE) $(TARGET_OUTPUT_FILE).eep.hex" />
+			<Add after='cmd /c &quot;avr-objdump -h -S $(TARGET_OUTPUT_FILE) &gt; $(TARGET_OUTPUT_FILE).lss&quot;' />
+		</ExtraCommands>
+		<Unit filename="cores\arduino-0019\CPPLib.cpp" />
+		<Unit filename="cores\arduino-0019\CPPLib.h" />
+		<Unit filename="cores\arduino-0019\HardwareSerial.cpp" />
+		<Unit filename="cores\arduino-0019\HardwareSerial.h" />
+		<Unit filename="cores\arduino-0019\Print.cpp" />
+		<Unit filename="cores\arduino-0019\Print.h" />
+		<Unit filename="cores\arduino-0019\RGLib.h" />
+		<Unit filename="cores\arduino-0019\Stream.h" />
+		<Unit filename="cores\arduino-0019\Tone.cpp" />
+		<Unit filename="cores\arduino-0019\WConstants.h" />
+		<Unit filename="cores\arduino-0019\WInterrupts.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cores\arduino-0019\WMath.cpp" />
+		<Unit filename="cores\arduino-0019\WProgram.h" />
+		<Unit filename="cores\arduino-0019\WString.cpp" />
+		<Unit filename="cores\arduino-0019\WString.h" />
+		<Unit filename="cores\arduino-0019\binary.h" />
+		<Unit filename="cores\arduino-0019\pins_arduino.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cores\arduino-0019\pins_arduino.h" />
+		<Unit filename="cores\arduino-0019\wiring.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cores\arduino-0019\wiring.h" />
+		<Unit filename="cores\arduino-0019\wiring_analog.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cores\arduino-0019\wiring_digital.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cores\arduino-0019\wiring_private.h" />
+		<Unit filename="cores\arduino-0019\wiring_pulse.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cores\arduino-0019\wiring_shift.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Unit filename="main.pde" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

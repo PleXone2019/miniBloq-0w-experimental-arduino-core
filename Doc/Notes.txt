@@ -1,0 +1,34 @@
+::0w-experimental-arduino-core::
+
+- The idea:
+	- Experimental Arduino core to be compiled without warnings.
+	- And test some new features:
+		- Added new, delete, new[] and delete[] operators.
+		- Added support for virtual destructors.
+
+
+- Specs:
+	- Current 0w-experimental-arduino-core version: v0.1
+	- Current Arduino core version: 0019
+	- Current compiler: WinAVR-20090313
+	- Build options: See /Doc/Images/BuildOptions_NonPedantic.jpg
+	- Current CPU target: ATMega328 @16 MHz
+
+
+- Output:
+	- When you compile this, you get a hex file that currently does nothing, and
+	in addition, is too heavy (due to the compilation process). So, the idea with  
+	this CodeBlocks project is just to be a test bed to eliminate the warnings, not 
+	to compile a working hex. However, you can edit the main.pde file, and paste 
+	any	Arduino example, and play and experiment with standard Arduino code in a
+	CodeBlocks project.
+
+
+- License:
+	- The same as the original Arduino core (see http://arduino.cc).
+
+
+- Developers:
+	- Julián da Silva Gillig at RobotGroup's RG.Labs (http://robotgroup.com.ar).
+	- This is part of the Multiplo (http://multiplo.org) and the DuinOS projects.
+
