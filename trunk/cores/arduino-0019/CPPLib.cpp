@@ -10,6 +10,10 @@ extern "C"
 void __cxa_pure_virtual()
 {
     //abort();
+
+    //See http://www.arduino.cc/playground/Code/Eclipse
+    cli();
+    for (;;);
 }
 
 
